@@ -1,0 +1,81 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "creation": "2021-08-20 02:39:19.789470",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "magaca",
+  "magacada_hoyada",
+  "sanadka_dhalashada",
+  "goobta_dhalashada",
+  "sanad_dugsiyeedka",
+  "dugsiga",
+  "md"
+ ],
+ "fields": [
+  {
+   "fieldname": "magaca",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0637\u0627\u0644\u0628 \u0627\u0644\u0631\u0628\u0627\u0639\u0649"
+  },
+  {
+   "fieldname": "magacada_hoyada",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0623\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u064a"
+  },
+  {
+   "fieldname": "sanadka_dhalashada",
+   "fieldtype": "Data",
+   "label": "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0645\u064a\u0644\u0627\u062f"
+  },
+  {
+   "fieldname": "goobta_dhalashada",
+   "fieldtype": "Data",
+   "label": "\u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u064a\u0644\u0627\u062f"
+  },
+  {
+   "fieldname": "sanad_dugsiyeedka",
+   "fieldtype": "Data",
+   "label": "\u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u062f\u0631\u0627\u0633\u0640\u064a"
+  },
+  {
+   "fieldname": "dugsiga",
+   "fieldtype": "Data",
+   "label": "\u0627\u0633\u0645 \u0627\u0644\u0645\u0639\u0640\u0647\u062f"
+  },
+  {
+   "fieldname": "md",
+   "fieldtype": "Table",
+   "label": "Md",
+   "options": "madoyinka"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-08-20 03:08:03.782359",
+ "modified_by": "Administrator",
+ "module": "Rasiin",
+ "name": "Natiijada Imtxaanka",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "import": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
